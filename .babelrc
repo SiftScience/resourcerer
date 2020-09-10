@@ -2,13 +2,11 @@
   "presets": [
     ["@babel/env", {
       "targets": {
-        "chrome": "67",
-        "firefox": "63",
-        "edge": "18",
-        "opera": "57",
-        "safari": "12"
-      },
-      "modules": "cjs"
+        "chrome": "80",
+        "firefox": "79",
+        "edge": "84",
+        "safari": "13.1"
+      }
     }],
     "@babel/react"
   ],
